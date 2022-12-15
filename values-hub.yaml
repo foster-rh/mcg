@@ -94,7 +94,7 @@ clusterGroup:
           platform:
             aws:
               region: ap-southeast-2
-#          clusters:
+          clusters: {}
 #          - tokyo
           
           
