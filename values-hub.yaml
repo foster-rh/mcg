@@ -6,7 +6,6 @@ clusterGroup:
   - open-cluster-management
   - vault
   - golang-external-secrets
-  - config-demo
   - rhacs-operator
 
   subscriptions:
